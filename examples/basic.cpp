@@ -5,11 +5,11 @@ using namespace std;
 
 int main(int argc, char** argv)
 {
-	pnInit();
+    pnInit();
 
-	// TODO: usage examples
+    // TODO: usage examples
 
-	pnClose();
-	return 0;
+    pnClose();
+    return 0;
 }
 
